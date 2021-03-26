@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-2018/10/17 HW1
+2018/10/17 
+Window Functions Generators
 """
 
 import numpy as np
